@@ -14,3 +14,11 @@ Estudante de programação focado em C# e lógica de programação. Atualmente a
 
 [![LinkedIn](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/eujotaefi?igsh=ZWV0bTBoNXdxYnN0)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jotaefi/)
+
+<img align="right" height="205" src="https://media.tenor.com/9SDB_gbIBpsAAAAM/type-keyboard.gif"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/Jotaefii/Jotaefii/output/snake.svg" alt="Snake animation" />
+
+###
