@@ -1,16 +1,15 @@
-## Hi there 👋
+# <div align="center">Hello! My name is Felipe 👋</div>
 
-<!--
-**Jotaefii/Jotaefii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=30E05D&center=true&vCenter=true&width=435&lines=Back-End;" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+Estudante de programação focado em C# e lógica de programação. Atualmente aprendendo desenvolvimento de software, Git/GitHub e construindo pequenos projetos para evoluir minhas habilidades e conquistar uma oportunidade de estágio na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+[![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet)](https://skillicons.dev)
+
+## Contact me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([www.linkedin.com/in/jotaefi](https://www.linkedin.com/in/jotaefi/))
