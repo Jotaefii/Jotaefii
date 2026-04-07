@@ -10,6 +10,6 @@ Estudante de programação focado em C# e lógica de programação. Atualmente a
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet)](https://skillicons.dev)
 
-## Contact me
+## Social media
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([www.linkedin.com/in/jotaefi](https://www.linkedin.com/in/jotaefi/))
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jotaefi/)
