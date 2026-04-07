@@ -12,4 +12,5 @@ Estudante de programação focado em C# e lógica de programação. Atualmente a
 
 ## Social media
 
+[![LinkedIn](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/eujotaefi?igsh=ZWV0bTBoNXdxYnN0)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jotaefi/)
