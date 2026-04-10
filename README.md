@@ -8,7 +8,7 @@ Estudante de programação focado em C# e lógica de programação. Atualmente a
 
 <h2 align="left">My stack</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,py)](https://skillicons.dev)
 
 <h2 align="left">Connect with me</h2>
 
