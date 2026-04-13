@@ -4,13 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=30E05D&center=true&vCenter=true&width=435&lines=Student+ADS;Back-end;" alt="Typing SVG" />
 </div>
 
-Estudante de programação focado em C# e lógica de programação. Atualmente aprendendo desenvolvimento de software, Git/GitHub e construindo pequenos projetos para evoluir minhas habilidades e conquistar uma oportunidade de estágio na área de tecnologia.
+## About me
 
-<h2 align="left">Connect with me</h2>
-
-  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/eujotaefi?igsh=ZWV0bTBoNXdxYnN0)
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jotaefi/)
-
+- 👋 Me Chamo João Felipe
+- 🎓 Estou cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Gosto de aprender testando, errando e entendendo como resolver problemas
+- 🛠️ Utilizando Git e GitHub para versionamento de código
+- 🎯 Meu foco principal é back-end com Java
+- 📚 Sempre buscando aprender algo novo todos os dias
+<div> 
+  <a href="https://www.linkedin.com/in/jotaefi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.instagram.com/eujotaefi?igsh=ZWV0bTBoNXdxYnN0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 <h2 align="left">My stack</h2>
 
