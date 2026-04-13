@@ -19,4 +19,38 @@
 
 <h2 align="left">My stack</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=c,java,cs,py)](https://skillicons.dev)
+ <div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150px">
+        <img src="https://skillicons.dev/icons?i=c" width="80px" height="80px" alt="C">
+        <br>
+        <strong>C</strong>
+      <td align="center" width="150px">
+        <img src="https://skillicons.dev/icons?i=java" width="80px" height="80px" alt="Java">
+        <br>
+        <strong>Java</strong>
+      </td>
+      <td align="center" width="150px">
+      <img src="https://skillicons.dev/icons?i=cs" width="80px" height="80px" alt="C#">
+        <br>
+        <strong>C#</strong>
+      </td>
+      <td align="center" width="150px">
+      <img src="https://skillicons.dev/icons?i=py" width="80px" height="80px" alt="Python">
+        <br>
+        <strong>Python</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=mateusmarquessz&style=for-the-badge" />
+  </div>
+
+
+
+## Contribuições
+  ![GitHub stats](https://github-readme-stats-red-seven-2029fhes1x.vercel.app/api?username=Jotaefii&show_icons=true&theme=dark)
+  <img height="180cm" src="https://github-readme-stats-red-seven-2029fhes1x.vercel.app/api/top-langs/?username=Jotaefii&layout=compact&show_icons=true&theme=dark">
