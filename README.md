@@ -30,10 +30,6 @@
         <br>
         <strong>Java</strong>
       </td>
-      <td align="center" width="150px">
-      <img src="https://skillicons.dev/icons?i=cs" width="80px" height="80px" alt="C#">
-        <br>
-        <strong>C#</strong>
       </td>
       <td align="center" width="150px">
       <img src="https://skillicons.dev/icons?i=py" width="80px" height="80px" alt="Python">
