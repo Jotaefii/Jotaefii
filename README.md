@@ -22,10 +22,6 @@
   <table>
     <tr>
       <td align="center" width="150px">
-        <img src="https://skillicons.dev/icons?i=c" width="80px" height="80px" alt="C">
-        <br>
-        <strong>C</strong>
-      <td align="center" width="150px">
         <img src="https://skillicons.dev/icons?i=java" width="80px" height="80px" alt="Java">
         <br>
         <strong>Java</strong>
