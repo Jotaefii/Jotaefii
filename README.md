@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/eujotaefi?igsh=ZWV0bTBoNXdxYnN0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<h2 align="left">My stack</h2>
+<h2 align="left">Technologies</h2>
 
  <div align="center">
   <table>
