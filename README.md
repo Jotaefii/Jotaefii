@@ -26,12 +26,6 @@
         <br>
         <strong>Java</strong>
       </td>
-      </td>
-      <td align="center" width="150px">
-      <img src="https://skillicons.dev/icons?i=py" width="80px" height="80px" alt="Python">
-        <br>
-        <strong>Python</strong>
-      </td>
     </tr>
   </table>
 </div>
