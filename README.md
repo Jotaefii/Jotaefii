@@ -18,22 +18,9 @@
 
 <h2 align="left">Technologies</h2>
 
- <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="150px">
-        <img src="https://skillicons.dev/icons?i=java" width="80px" height="80px" alt="Java">
-        <br>
-        <strong>Java</strong>
-      </td>
-    </tr>
-  </table>
+ <div align="left">
+        <img src="https://skillicons.dev/icons?i=java" />
 </div>
-
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Jotaefii&style=for-the-badge" />
-  </div>
-
 
 
 ## Contribuições
