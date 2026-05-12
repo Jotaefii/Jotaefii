@@ -19,9 +19,12 @@
 ## Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=java"/></p>
+<img src="https://skillicons.dev/icons?i=java"/>
+</p>
 
-## Contribuições
+## 📊 GitHub Stats
 
-  ![GitHub stats](https://github-readme-stats-red-seven-2029fhes1x.vercel.app/api?username=Jotaefii&show_icons=true&theme=dark)
-  <img height="180cm" src="https://github-readme-stats-red-seven-2029fhes1x.vercel.app/api/top-langs/?username=Jotaefii&layout=compact&show_icons=true&theme=dark">
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emyrhf&show_icons=true&theme=dark&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emyrhf&layout=compact&theme=dark&hide_border=true"/>
+</p>
