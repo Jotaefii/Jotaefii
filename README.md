@@ -19,7 +19,7 @@
 ## Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=java,python"/>
 </p>
 
 ## 📊 GitHub Stats
