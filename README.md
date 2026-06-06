@@ -4,7 +4,7 @@
 # <div align="center">Hello! My name is Felipe 👋</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Student+ADS;Back-end;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Estudante+ADS;Back-end;" alt="Typing SVG" />
 </div>
 
 ## About me
