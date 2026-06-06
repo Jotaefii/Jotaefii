@@ -1,3 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=&fontSize=40"/>
+
+
 # <div align="center">Hello! My name is Felipe 👋</div>
 
 <div align="center">
@@ -18,9 +21,11 @@
 
 ## Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,java,python"/>
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -28,3 +33,5 @@
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jotaefii&show_icons=true&theme=dark&hide_border=true" />
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jotaefii&layout=compact&theme=dark&hide_border=true"/>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
