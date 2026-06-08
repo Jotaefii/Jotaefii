@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,java,python"/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,java&theme=light)](https://skillicons.dev)
 
 </div>
 
