@@ -31,36 +31,29 @@
 ## 📂 Projetos em destaque
 
 <div align="center">
-<a href="https://github.com/Jotaefii/average-student">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jotaefii&repo=average-student&theme=tokyonight&hide_border=true" />
-</a>
+
+### 🎓 [average-student](https://github.com/Jotaefii/average-student)
+
+`Java`
+
 </div>
 
 <br>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jotaefii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jotaefii&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotaefii&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Jotaefii&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jotaefii&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
 
-<br>
+</br>
 
 ## 🔗 Contato
 
 <div align="center">
-<a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/jotaefi" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/SEU-INSTAGRAM" target="_blank">
