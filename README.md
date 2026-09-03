@@ -44,7 +44,7 @@
 
 <div align="center">
 
-### 🎓 [average-student](https://github.com/Jotaefii/average-student)
+### 🎓 [school-system](https://github.com/Jotaefii/average-student)
 
 `Java`
 
