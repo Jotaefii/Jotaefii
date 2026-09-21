@@ -35,7 +35,7 @@
 ## 🛠️ Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,postgresql,java,spring,html,css,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgresql,html,css,git&theme=dark" />
 </div>
 
 <br>
