@@ -25,9 +25,8 @@
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- ☕ Foco principal em **back-end com Java**, atualmente estudando **Programação Orientada a Objetos (POO)**
+- ☕ **Back-end:** Java | **Front-end:** Futuramente Angular
 - 🌱 Aprendo testando, errando e entendendo como resolver problemas de verdade
-- 🛠️ Uso **Git e GitHub** no dia a dia para versionar meus projetos
 - 🎯 Em busca de oportunidade como **estagiário/júnior back-end**
 
 <br>
