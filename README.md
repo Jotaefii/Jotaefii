@@ -46,11 +46,8 @@
 
 <div align="center">
 
+###  [store-manager](https://github.com/Jotaefii/basic-crud)
 ###  [school-system](https://github.com/Jotaefii/average-student)
-###  [basic-crud](https://github.com/Jotaefii/basic-crud)
-
-
-`Java`
 
 </div>
 
