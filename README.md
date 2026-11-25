@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1730,50:1a2b6b,100:2f54d1&height=200&section=header&text=Jo%C3%A3o%20Felipe&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Back-end%20Developer%20%7C%20Java&descAlignY=58&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1730,50:1a2b6b,100:2f54d1&height=200&section=header&text=Jo%C3%A3o%20Felipe&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full-stack%20Developer%20%7C%20Java&descAlignY=58&descSize=20&animation=fadeIn" />
 
 ### <span style="color:#2f54d1">💻 Estudante de ADS | Foco em Back-end com Java</span>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2F54D1&center=true&vCenter=true&width=500&lines=Aprendendo+Java+e+POO;Buscando+minha+primeira+oportunidade;Aberto+a+desafios+de+back-end" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2F54D1&center=true&vCenter=true&width=500&lines=Aprendendo+Java+e+POO;Buscando+minha+primeira+oportunidade;Aberto+a+desafios" />
 
 <br>
 
