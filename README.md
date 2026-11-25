@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1730,50:1a2b6b,100:2f54d1&height=200&section=header&text=Jo%C3%A3o%20Felipe&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full-stack%20Developer%20%7C%20Java&descAlignY=58&descSize=20&animation=fadeIn" />
 
-### <span style="color:#2f54d1">💻 Estudante de ADS | Foco em Back-end com Java</span>
+### <span style="color:#2f54d1">💻 Estudante de ADS | Desenvolvedor Full-Stack em formação</span>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2F54D1&center=true&vCenter=true&width=500&lines=Aprendendo+Java+e+POO;Buscando+minha+primeira+oportunidade;Aberto+a+desafios" />
 
@@ -22,19 +22,22 @@
 
 <br>
 
-## 🧑‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- ☕ **Back-end:** Java | **Front-end:** Futuramente Angular
-- 🌱 Aprendo testando, errando e entendendo como resolver problemas de verdade
-- 🎯 Em busca de oportunidade como **estagiário/júnior back-end**
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 💻 Desenvolvedor Full-stack em formação.
+- ☕ **Backend:** Java e Spring Boot.
+- 🎨 **Frontend:** HTML e CSS.
+- 🗄️ **Banco de dados:** PostgreSQL e MySQL.
+- 🚀 Sempre aprendendo e desenvolvendo novos projetos.
+- 🎯 Em busca de oportunidades como desenvolvedor Backend ou Full-stack Júnior.
 
 <br>
 
 ## 🛠️ Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,py,postgresql,mysql,html,css,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,py,postgresql,html,css,js,git&theme=dark" />
 </div>
 
 <br>
