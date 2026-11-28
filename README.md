@@ -22,22 +22,20 @@
 
 <br>
 
-## 👨‍💻 Sobre mim
-
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Desenvolvedor Full-stack em formação.
-- ☕ **Backend:** Java e Spring Boot.
-- 🎨 **Frontend:** HTML e CSS.
-- 🗄️ **Banco de dados:** PostgreSQL e MySQL.
-- 🚀 Sempre aprendendo e desenvolvendo novos projetos.
-- 🎯 Em busca de oportunidades como desenvolvedor Backend ou Full-stack Júnior.
-
-<br>
-
-## 🛠️ Stack
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,py,postgresql,html,css,js,git&theme=dark" />
+  
+## Front end
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+## Back end
+
+<img src="https://skillicons.dev/icons?i=java,spring,py,postgresql&theme=dark" />
+
+## Ferramentas
+
+<img src="https://skillicons.dev/icons?i=vscode,git&theme=dark" />
+
 </div>
 
 <br>
